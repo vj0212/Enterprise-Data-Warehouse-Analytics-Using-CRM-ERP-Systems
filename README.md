@@ -29,52 +29,9 @@ This project outlines the development of a data warehouse architecture using a m
 - SQL Server
 - Documentation (Draw.io, Notion)
 
-## Project Phases
-### 1. Project Initialization
-- **Status**: Completed (100%)
-- **Tasks**:
-  - Prepare GIT Repo and Structure
-  - Create DB and Schemas
-  - Define Project Naming Conventions
+## Planning in Notion
+![Planning Screenshot](Planning/Screenshot 2025-07-05 171912.png)
 
-### 2. Requirement Analysis
-- **Status**: Completed (100%)
-- **Tasks**:
-  - Analyze and Understand the Requirements
-
-### 3. Design Data Architecture
-- **Status**: Completed (100%)
-- **Tasks**:
-  - Choose Data Management Approach
-  - Brainstorm and Design The Layers
-  - Draw the Data Architecture (Draw.io)
-
-### 4. Build Bronze Layer
-- **Status**: Completed (100%)
-- **Tasks**:
-  - Analyzing: Source Systems
-  - Coding: Data Ingestion
-  - Validation: Data Completeness & Schema Checks
-  - Document: Draw Data Flow
-  - Commit Code in Git Repo
-
-### 5. Build Silver Layer
-- **Status**: Completed (100%)
-- **Tasks**:
-  - Analyzing: Explore & Understand Data
-  - Coding: Data Cleansing
-  - Validating: Data Correctness Checks
-  - Documenting & Versioning in GIT
-  - Commit Code in Git Repo
-
-### 6. Build Gold Layer
-- **Status**: In Progress (100%)
-- **Tasks**:
-  - Analyze Business Objects
-  - Coding: Data Integration
-  - Validating: Integration Checks
-  - Document: Draw Model of Star Schema
-  - Document: Create Data Catalog
 
 ## 🏗 Architecture
 
