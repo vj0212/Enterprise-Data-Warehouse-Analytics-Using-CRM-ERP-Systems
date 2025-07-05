@@ -27,7 +27,7 @@ This project outlines the development of a data warehouse architecture using a m
 - Power BI Desktop
 - DAX (Data Analysis Expressions)
 - SQL Server
-- Documentation (Draw.io, Markdown)
+- Documentation (Draw.io, Notion)
 
 ## Project Phases
 ### 1. Project Initialization
@@ -68,7 +68,7 @@ This project outlines the development of a data warehouse architecture using a m
   - Commit Code in Git Repo
 
 ### 6. Build Gold Layer
-- **Status**: In Progress (0%)
+- **Status**: In Progress (100%)
 - **Tasks**:
   - Analyze Business Objects
   - Coding: Data Integration
