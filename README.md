@@ -30,8 +30,7 @@ This project outlines the development of a data warehouse architecture using a m
 - Documentation (Draw.io, Notion)
 
 ## Planning in Notion
-![Planning Screenshot](Planning/Screenshot 2025-07-05 171912.png)
-
+![Planning Screenshot](Planning/Screenshot_2025-07-05_171912.png)
 
 ## 🏗 Architecture
 
