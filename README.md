@@ -5,7 +5,7 @@
 ---
 
 ## 🧾 Description:
-This project implements a full-scale data warehouse solution by integrating raw data from **CRM** and **ERP** systems, transforming it through a multi-layered architecture (**Bronze → Silver → Gold**), and ultimately visualizing the curated Gold Layer in **Power BI** for business insights. It follows a **Star Schema** modeling approach and delivers powerful KPIs and analytics on customer behavior, product performance, and sales trends.
+This project implements a full-scale data warehouse solution by integrating raw data from **CRM** and **ERP** systems, transforming it through a multi-layered architecture (**Bronze → Silver → Gold**) in Microsoft SQL Server, and ultimately visualizing the curated Gold Layer in **Power BI** for business insights. It follows a **Star Schema** modeling approach and delivers powerful KPIs and analytics on customer behavior, product performance, and sales trends.
 
 ## Project Overview
 This project outlines the development of a data warehouse architecture using a medallion architecture (Bronze, Silver, Gold layers) to process and transform data from CRM and ERP sources into a business-ready format. The architecture supports batch processing of CSV files, with transformations for cleansing, standardization, and modeling for analytics, reporting, and machine learning.
