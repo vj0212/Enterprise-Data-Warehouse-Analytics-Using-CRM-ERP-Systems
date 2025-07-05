@@ -30,7 +30,7 @@ This project outlines the development of a data warehouse architecture using a m
 - Documentation (Draw.io, Notion)
 
 ## Planning in Notion
-![Planning Screenshot](Planning/Screenshot_2025-07-05_171912.png)
+![Steps for making the Warehouse](https://raw.githubusercontent.com/vj0212/Enterprise-Data-Warehouse-Analytics-Using-CRM-ERP-Systems/59deae75b5050c0762230a724f6343bfa1fdbd94/Planning/Screenshot%202025-07-05%20171912.png)
 
 ## 🏗 Architecture
 
