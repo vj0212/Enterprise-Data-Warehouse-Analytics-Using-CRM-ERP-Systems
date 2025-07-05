@@ -31,6 +31,7 @@ This project outlines the development of a data warehouse architecture using a m
 
 ## Planning in Notion
 ![Steps for making the Warehouse](https://raw.githubusercontent.com/vj0212/Enterprise-Data-Warehouse-Analytics-Using-CRM-ERP-Systems/59deae75b5050c0762230a724f6343bfa1fdbd94/Planning/Screenshot%202025-07-05%20171912.png)
+![Data Warehouse Project Planning in Notion](https://raw.githubusercontent.com/vj0212/Enterprise-Data-Warehouse-Analytics-Using-CRM-ERP-Systems/b7e083bfd7c2dee09e4602684ad57432aba1165c/Planning/Screenshot%202025-07-05%20171948.png)
 
 ## 🏗 Architecture
 
