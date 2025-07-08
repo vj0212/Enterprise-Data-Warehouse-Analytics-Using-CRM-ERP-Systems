@@ -33,7 +33,7 @@ This project implements a full-scale data warehouse solution by integrating raw 
 
 ## Project Workflow
 
-The attached project management board outlines the workflow in Notion, with tasks grouped into epics. Below are the phases and their statuses:
+The attached project management board outlines the workflow in Notion, with tasks grouped into epics , as shown in above images:
 ---
 
 ## Data Architecture and Flow
