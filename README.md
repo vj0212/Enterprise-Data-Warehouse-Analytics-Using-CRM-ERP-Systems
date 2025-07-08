@@ -209,8 +209,10 @@ The **Data Warehouse Project** implements a robust ETL pipeline, transforming ra
 - **Snowflake extension**: `Customers_Report` view adds segmentation and behavior insights
 - **Relationships**: Based on surrogate keys (`Customer_Key`, `Product_Key`)
 
-### 📌 Key Metrics (KPI Cards)
+### 📌 Key Metrics 
 ```DAX
+--(KPI Cards)--
+
 Total Revenue:
 Value: ₹29.356M (29.356 million)
 Metric: Sum of Sales Amount
@@ -231,7 +233,7 @@ Value: ₹486.05
 Metric: Average Value of Order
 Insight: The average order value is moderate, suggesting a mix of low and high-value transactions.
 
-Dashboard Data Analysis
+## Dashboard Data Analysis
 Customer Segmentation (Donut Chart):
 Segments:
 New: 14,637 (79.15%)
